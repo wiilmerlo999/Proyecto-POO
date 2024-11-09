@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Prestamo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Prestamo\ here.\r\n\ import\ java.time.temporal.TemporalField;\r\n\ \r\n\ @author\ (Franco)\ \r\n\ @version\ (beta\ 1)\r\n
+comment1.params=p_fechaRetiro\ p_fechaDevolucion\ p_libro
+comment1.target=Prestamo(java.util.Calendar,\ java.util.Calendar,\ Libro)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.util.Calendar\ getFechaRetiro()
+comment3.params=fechaRetiro
+comment3.target=void\ setFechaRetiro(java.util.Calendar)
+comment4.params=
+comment4.target=java.util.Calendar\ getFechaDevolucion()
+comment5.params=p_fechaDevolucion
+comment5.target=void\ setFechaDevolucion(java.util.Calendar)
+comment6.params=
+comment6.target=Libro\ getLibro()
+comment7.params=libro
+comment7.target=void\ setLibro(Libro)
+comment8.params=p_fecha
+comment8.target=void\ registrarFechaDevolucion(java.util.Calendar)
+comment9.params=p_fecha
+comment9.target=boolean\ vencido(java.util.Calendar)
+numComments=11

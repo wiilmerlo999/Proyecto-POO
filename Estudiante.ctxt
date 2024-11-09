@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment0.text=\r\n\ Representa\ un\ estudiante\ que\ es\ un\ socio.\r\n\ \r\n\ @author\ Sosa\ Diana\ Abril\r\n\ @version\ (1)\r\n
+comment1.params=p_dniSocio\ p_nombre\ p_carrera\ p_prestamos
+comment1.target=Estudiante(int,\ java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ para\ crear\ un\ objeto\ de\ la\ clase\ Estudiante\ con\ una\ lista\ de\ pr\u00E9stamos.\r\n\ \r\n\ @param\ p_dniSocio\ \ \ \ \ El\ DNI\ del\ socio.\r\n\ @param\ p_nombre\ \ \ \ \ \ \ El\ nombre\ del\ estudiante.\r\n\ @param\ p_carrera\ \ \ \ \ \ La\ carrera\ del\ estudiante.\r\n\ @param\ p_prestamos\ \ \ \ Lista\ de\ pr\u00E9stamos\ asociados\ al\ estudiante.\r\n
+comment2.params=p_dniSocio\ p_nombre\ p_carrera\ p_prestamo
+comment2.target=Estudiante(int,\ java.lang.String,\ java.lang.String,\ Prestamo)
+comment2.text=\r\n\ Constructor\ para\ crear\ un\ objeto\ de\ la\ clase\ Estudiante\ con\ un\ pr\u00E9stamo\ inicial.\r\n\ \r\n\ @param\ p_dniSocio\ \ \ \ \ El\ DNI\ del\ socio.\r\n\ @param\ p_nombre\ \ \ \ \ \ \ El\ nombre\ del\ estudiante.\r\n\ @param\ p_carrera\ \ \ \ \ \ La\ carrera\ del\ estudiante.\r\n\ @param\ p_prestamo\ \ \ \ \ El\ pr\u00E9stamo\ inicial.\r\n
+comment3.params=p_dniSocio\ p_nombre\ p_carrera
+comment3.target=Estudiante(int,\ java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Constructor\ para\ crear\ un\ objeto\ Estudiante\ sin\ pr\u00E9stamos\ iniciales.\r\n\r\n\ @param\ p_dniSocio\ El\ DNI\ del\ estudiante.\r\n\ @param\ p_nombre\ El\ nombre\ del\ estudiante.\r\n\ @param\ p_carrera\ La\ carrera\ que\ estudia\ el\ estudiante.\r\n
+comment4.params=p_carrera
+comment4.target=void\ setCarrera(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCarrera()
+comment5.text=\r\n\ Obtiene\ la\ carrera\ del\ estudiante.\r\n\ \r\n\ @return\ La\ carrera\ del\ estudiante.\r\n
+comment6.params=
+comment6.target=boolean\ puedePedir()
+comment6.text=\r\n\ Verifica\ si\ el\ estudiante\ puede\ pedir\ un\ libro\ en\ pr\u00E9stamo.\r\n\ \r\n\ @return\ true\ si\ el\ estudiante\ puede\ pedir,\ false\ de\ lo\ contrario.\r\n
+comment7.params=
+comment7.target=java.lang.String\ soyDeLaClase()
+comment7.text=\r\n\ Indica\ de\ qu\u00E9\ clase\ es\ el\ objeto.\r\n\ \r\n\ @return\ "Estudiante".\r\n
+numComments=8

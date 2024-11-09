@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LibroNoPrestadoException
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LibroNoPrestadoException\ here.\r\n\ \r\n\ @author\ Wilson\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=LibroNoPrestadoException()
+comment2.params=mensaje
+comment2.target=LibroNoPrestadoException(java.lang.String)
+numComments=3
